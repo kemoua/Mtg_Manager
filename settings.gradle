@@ -1,0 +1,2 @@
+rootProject.name = "Mtg Manager"
+include ':app'
